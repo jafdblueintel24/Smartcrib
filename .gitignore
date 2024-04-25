@@ -1,0 +1,6 @@
+__pycache__/
+py.venv.cfg
+bin/
+lib/
+static/
+templates/
